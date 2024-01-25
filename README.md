@@ -12,8 +12,7 @@ cd wrds_KLC
 # Set up .pgpass file at your $HOME directory
 # wrds-pgdata.wharton.upenn.edu:9737:wrds:username:your_password
 nano ~/.pgpass
-
-
+   
 # Activate pre-built conda environment
 module load mamba
 source activate /kellogg/software/envs/wrds_env/
@@ -22,9 +21,6 @@ source activate /kellogg/software/envs/wrds_env/
 python -m ipykernel install --user --name wrds_env --display-name "Python (wrds_env)"
 
 ### IMPORTANT ###
-# Use editor of your choice, mod
-
-# IMPORTANT
 # Modify "username" in .ipynb, .py or .R scripts to your username for WRDS
 
 # Launch the jupyter notebook in FastX
