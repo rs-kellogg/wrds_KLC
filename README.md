@@ -1,5 +1,5 @@
 The repo has notebooks and scripts that demonstrate how to connect with the WRDS server.
-A few steps for using the notebook on KLC.
+Here are instructions for using the notebooks and scripts on KLC.
 ```
 # Connect to KLC
 # https://www.kellogg.northwestern.edu/academics-research/research-support/computing/kellogg-linux-cluster.aspx
