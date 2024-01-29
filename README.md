@@ -3,6 +3,11 @@ A few steps for using the notebook on KLC.
 ```
 # Connect to KLC
 # https://www.kellogg.northwestern.edu/academics-research/research-support/computing/kellogg-linux-cluster.aspx
+# Or Quest analytic node
+# RStudio
+# https://rstudio.questanalytics.northwestern.edu
+# Jupyter Notebook
+# https://jupyter.questanalytics.northwestern.edu
 
 # Clone the repo
 git clone https://github.com/rs-kellogg/wrds_KLC
